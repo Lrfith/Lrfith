@@ -87,10 +87,9 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lake&show_icons=true&locale=en" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lake&" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lake&show_icons=true&locale=en&layout=compact"  /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lake" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lrfith&show_icons=true&locale=en" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lrfith&show_icons=true&locale=en&layout=compact"  /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lrfith" /></a></p>
 <br/><br/>
 
 

@@ -48,5 +48,5 @@ Here are a few things I've worked on:
 ## 📫 Contact Me
 
 - ✉️ Email: [nuttamon.mala@gmail.com](mailto:nuttamon.mala@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/nuttamonmalakan](#https://www.linkedin.com/in/nuttamonmalakan)  
+- 💼 LinkedIn: [linkedin.com/in/nuttamonmalakan](https://www.linkedin.com/in/nuttamonmalakan)  
 ---

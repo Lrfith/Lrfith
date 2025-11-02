@@ -30,6 +30,16 @@ Here are a few things I've worked on:
 
 ---
 
+SꓥKDEE Care+
+<p align="center">
+  <a href="https://northsnx.github.io/SAKDEE.App/index.html" target="_blank">
+    <img src="Project01.png" alt="SAKDEE App" width="30" height="30">
+  </a>
+</p>
+
+
+---
+
 ## 🌱 Currently Learning
 
 - 🧩 **CEH (Certified Ethical Hacker)**  

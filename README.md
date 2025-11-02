@@ -32,7 +32,7 @@ Here are a few things I've worked on:
 
 SꓥKDEE Care+
 <p align="center">
-  <a href="https://northsnx.github.io/SAKDEE.App/index.html" target="[_blank](https://github.com/Lrfith/SAKDEE-CARE-PLUS)">
+  <a href="https://github.com/Lrfith/SAKDEE-CARE-PLUS" target="_blank">
     <img src="Project01.png" alt="SAKDEE App" width="600" height="600">
   </a>
 </p>

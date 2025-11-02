@@ -27,12 +27,9 @@ Here are a few things I've worked on:
 
 - 🌐 **[My Portfolio Website](https://portfolio-website-im2l.onrender.com/)** — Built with React + Tailwind CSS
 - 📖 **[My InfoSec](https://lrfith.github.io/docs-infoSec/)**
-
----
-
-SꓥKDEE Care+
+- 📱 **[SꓥKDEE Care+](https://github.com/Lrfith/SAKDEE-CARE-PLUS)**
 <p align="center">
-  <a href="https://github.com/Lrfith/SAKDEE-CARE-PLUS" target="_blank">
+  <a href="https://northsnx.github.io/SAKDEE.App/index.html" target="_blank">
     <img src="Project01.png" alt="SAKDEE App" width="600" height="600">
   </a>
 </p>

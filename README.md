@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Nuttamon Malakan
 
 I'm a **4th-year Computer Engineering student (B.Eng.) at Sripatum University** 🎓  
-Passionate about **Cybersecurity** 
+Passionate about **Everything** 
 I love exploring how systems work and finding creative ways to improve and secure them.  
 
-My goal is to grow as a **penetration tester and software developer**,  and one day work abroad in the global tech industry 🌍  
+My goal is to grow as a **web application developer and software developer**,  and one day work abroad in the global tech industry 🌍  
 
 ---
 
@@ -57,7 +57,6 @@ My goal is to grow as a **penetration tester and software developer**,  and one 
 Here are a few things I've worked on:
 
 - 🌐 **[My Portfolio Website](https://portfolio-website-im2l.onrender.com/)** — Built with React + Tailwind CSS
-- 📖 **[My InfoSec](https://lrfith.github.io/docs-infoSec/)**
 - 📱 **[SꓥKDEE Care+](https://github.com/Lrfith/SAKDEE-CARE-PLUS)**
 <p align="center">
   <a href="https://northsnx.github.io/SAKDEE.App/index.html" target="_blank">
@@ -66,22 +65,6 @@ Here are a few things I've worked on:
 </p>
 
 
----
-
-## 🌱 Currently Learning
-
-- 🧩 **CEH (Certified Ethical Hacker)**  
-- 🕵️‍♂️ **Digital Forensics**  
-- ⚔️ **OSCP (Offensive Security Certified Professional)**  
-- 🔒 **CompTIA Security+ (SEC+)**  
-- 🌐 **Web Application Penetration Testing**
-
----
-## 🎯 Goals
-
-- 🧾 Earn **OSCP** and **SEC+ certifications**  
-- 🌍 Work in the **cybersecurity field abroad**  
-- 🤝 Collaborate with security communities and share knowledge
 ---
 
 ## 📫 Contact Me

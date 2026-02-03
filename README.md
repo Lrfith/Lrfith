@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Nuttamon Malakan
+# 👋 Hi there!
 
 I'm a **4th-year Computer Engineering student (B.Eng.) at Sripatum University** 🎓  
 Passionate about **Everything** 

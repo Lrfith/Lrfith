@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a **4th-year Computer Engineering student (B.Eng.) at Sripatum University** 🎓  
+I was Computer Engineering student (B.Eng.) at Sripatum University** 🎓  
 Passionate about **Everything** 
 I love exploring how systems work and finding creative ways to improve and secure them.  
 
